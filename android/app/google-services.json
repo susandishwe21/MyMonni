@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191098818364",
+    "project_id": "mymonni-6b9d8",
+    "storage_bucket": "mymonni-6b9d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191098818364:android:a9ae8f76b3dbfa41d29839",
+        "android_client_info": {
+          "package_name": "com.example.mymonni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191098818364-uvn1pu2rnouder7ef7v74ocn4tcve0l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymonni",
+            "certificate_hash": "7ff1bb55baa58fb6d7c9110c686137eb71bd461a"
+          }
+        },
+        {
+          "client_id": "191098818364-7n90ih0tj8fqf168jujmej5vta477pmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXUBltI_lHhgrAf3L21wHYD1_TkkufyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191098818364-7n90ih0tj8fqf168jujmej5vta477pmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
