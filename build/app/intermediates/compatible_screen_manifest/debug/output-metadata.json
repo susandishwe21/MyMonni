@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.example.money",
+  "applicationId": "com.example.mymonni",
   "variantName": "debug",
   "elements": []
 }

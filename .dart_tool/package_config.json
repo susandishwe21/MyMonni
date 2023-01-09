@@ -146,13 +146,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "money",
+      "name": "mymonni",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-01-09T08:03:28.452125Z",
+  "generated": "2023-01-09T08:08:34.290091Z",
   "generator": "pub",
   "generatorVersion": "2.18.6"
 }

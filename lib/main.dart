@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/route_manager.dart';
-import 'package:money/views/screens/home_screen.dart';
+
+import 'views/screens/home_screen.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(

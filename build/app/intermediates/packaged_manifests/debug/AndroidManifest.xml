@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.money"
+    package="com.example.mymonni"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -19,9 +19,9 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="money" >
+        android:label="mymonni" >
         <activity
-            android:name="com.example.money.MainActivity"
+            android:name="com.example.mymonni.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"

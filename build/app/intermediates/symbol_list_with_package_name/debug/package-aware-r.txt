@@ -1,4 +1,4 @@
-com.example.money
+com.example.mymonni
 attr activityAction
 attr activityName
 attr alpha
